@@ -5,18 +5,6 @@ Implementation of the PhotoLab v1.0 project
 ![GIF animation](https://github.com/rigastalin/13-05-PhotoEditor/blob/b9666c78b72c0b7a511e9173c3ab209be323b085/Photobab.gif)
 
 
-## Contents
-
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-simple-filters-in PhotoLab-v1.0) \
-   3.2. [Part 2](#part-2-implementation-of-convolution-filters-in-photolab-v10) \
-   3.3. [Part 3](#part-3-bonus-implementation-of-color-correction)
-
-
 ## Chapter I
 ## Introduction
 
