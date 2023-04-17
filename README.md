@@ -2,6 +2,9 @@
 
 Implementation of the PhotoLab v1.0 project
 
+![GIF animation](https://github.com/rigastalin/13-05-PhotoEditor/blob/b9666c78b72c0b7a511e9173c3ab209be323b085/Photobab.gif)
+
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
